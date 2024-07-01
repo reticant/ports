@@ -4,7 +4,7 @@ CATEGORIES=	sysutils
 PKGNAMESUFFIX=	_${GH_ACCOUNT}
 
 MAINTAINER=	ad@opnsense.org
-COMMENT=	OPNsense shared authentication system using PAM
+COMMENT=	Reticent shared authentication system using PAM
 
 LICENSE=	BSD2CLAUSE
 
