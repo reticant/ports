@@ -1,4 +1,4 @@
-The Reticent system update utilities provide kernel and base
+The OPNsense system update utilities provide kernel and base
 upgrades based on signed binary sets as well as packages via
 pkg(8).
 
