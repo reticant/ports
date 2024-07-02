@@ -11,7 +11,7 @@ LICENSE=	BSD3CLAUSE
 CONFLICTS_INSTALL=	isc-dhcp44-relay
 
 USE_GITHUB=	yes
-GH_ACCOUNT=	${CATEGORIES:[1]}
+GH_ACCOUNT=	opnsense
 GH_TAGNAME=	65d7ba2
 
 .include <bsd.port.mk>
