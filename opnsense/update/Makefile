@@ -8,7 +8,7 @@ CATEGORIES=	sysutils
 PKGNAMEPREFIX=	${GH_ACCOUNT}-
 
 MAINTAINER=	franco@opnsense.org
-COMMENT=	Reticent update utilities
+COMMENT=	OPNsense update utilities
 WWW=		https://github.com/opnsense/update
 
 LICENSE=	BSD2CLAUSE
