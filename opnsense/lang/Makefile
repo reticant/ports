@@ -15,6 +15,6 @@ NO_ARCH=	yes
 NO_BUILD=	yes
 
 USE_GITHUB=	yes
-GH_ACCOUNT=	${CATEGORIES:[1]}
+GH_ACCOUNT=	opnsense
 
 .include <bsd.port.mk>
