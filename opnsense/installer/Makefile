@@ -4,7 +4,7 @@ CATEGORIES=	sysutils
 PKGNAMEPREFIX=	${GH_ACCOUNT}-
 
 MAINTAINER=	franco@opnsense.org
-COMMENT=	Reticent installer scripts
+COMMENT=	OPNsense installer scripts
 WWW=		https://github.com/opnsense/installer
 
 LICENSE=	BSD2CLAUSE
