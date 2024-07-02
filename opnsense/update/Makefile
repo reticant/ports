@@ -20,7 +20,7 @@ USES=		ssl
 MAKE_ENV=	UPDATE_RELEASE=${PORTVERSION}
 
 USE_GITHUB=	yes
-GH_ACCOUNT=	${CATEGORIES:[1]}
+GH_ACCOUNT=	opnsense
 GH_TAGNAME=	f2a6831
 
 .include <bsd.port.mk>
